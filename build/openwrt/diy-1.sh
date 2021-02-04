@@ -11,3 +11,4 @@
 #
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 #sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
+git clone https://github.com/liuran001/openwrt-packages.git package/app
